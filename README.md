@@ -466,23 +466,6 @@ If you find this work useful, please cite:
 }
 ```
 
----
-
-## 🙏 Acknowledgements
-
-- **BraTS Challenge** organizers for the benchmark dataset
-- **JAIN (Deemed-to-be University)**, Faculty of Engineering & Technology
-- Guide: **Dr. Guruvammal S**, Dept. of CSE
-- M.Tech Program Head: **Dr. Ajay Kumar Singh**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 Made with ❤️ by **Shaik Mohammed Feroz** · [shaikmohammedferoz47@gmail.com](mailto:shaikmohammedferoz47@gmail.com)

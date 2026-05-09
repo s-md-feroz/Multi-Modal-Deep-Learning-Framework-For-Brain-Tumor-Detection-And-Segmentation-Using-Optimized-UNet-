@@ -170,7 +170,7 @@ Each **DoubleConv block**: `Conv3×3 → BatchNorm2d → ReLU → Conv3×3 → B
 
 > 📷 **Figure:** Sample BraTS2020 HDF5 slice showing all 4 modalities + ground truth (see `images/sample_mri_slice.png`)
 
-![Sample MRI Slice](images/sample_mri_slice.png)
+![Sample MRI Slice](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/data%20set.jpg)
 
 Download the BraTS2020 dataset from the [official challenge page](https://www.med.upenn.edu/cbica/brats2020/data.html).
 
@@ -301,7 +301,7 @@ def combined_loss(pred, target):
 
 > 📷 **Figure:** Training & validation loss/Dice curves (see `images/training_curves.png`)
 
-![Training Curves](images/training_curves.png)
+![Training Curves](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/train%20and%20val.png)
 
 ---
 
@@ -338,9 +338,9 @@ True Tumor               302                 3,854
 
 > 📷 **Figures:** ROC curve (see `images/roc_curve.png`) · Confusion matrix (see `images/confusion_matrix.png`) · Prediction vs Ground Truth (see `images/prediction_vs_gt.png`)
 
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Prediction vs GT](images/prediction_vs_gt.png)
+![ROC Curve](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/ROC%20curve.png)
+![Confusion Matrix](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/confuion%20matrix.png)
+![Prediction vs GT](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/predication%20and%20groth%20truth.png)
 
 ---
 
@@ -352,7 +352,7 @@ Grad-CAM at the UNet bottleneck confirms that the model attends to genuine tumor
 
 > 📷 See `images/gradcam_heatmap.png`
 
-![Grad-CAM](images/gradcam_heatmap.png)
+![Grad-CAM](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/grad%20cam.png)
 
 ### 3D Volumetric Reconstruction
 
@@ -366,7 +366,7 @@ Interactive 3D tumor surface using **marching cubes** + **Plotly** with per-regi
 
 > 📷 See `images/3d_visualization.png`
 
-![3D Visualization](images/3d_visualization.png)
+![3D Visualization](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/3d%20visulaztion.png)
 
 ### Automated Severity Classification
 
@@ -380,7 +380,7 @@ Patients are categorized into severity tiers based on predicted tumor burden:
 
 > 📷 See `images/severity_distribution.png` · `images/tumor_region_pie.png` · `images/dice_score_distribution.png`
 
-![Severity Distribution](images/severity_distribution.png)
+![Severity Distribution](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/d112cc3d281233e8357e50f2d3a7605cf09c043d/dataset%20level%20statatics.png)
 
 ---
 

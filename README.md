@@ -104,7 +104,7 @@ Stage 6: Interpretability & Visualization
 
 > 📷 **Figure:** Six-stage pipeline diagram (see `images/pipeline.png`)
 
-![Pipeline Diagram](images/pipeline.png)
+![Pipeline Diagram]([images/pipeline.png](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/a1e8b3b946a4dc8e82a40d41fbe9a9ff5ddb46b6/pipeline.jpeg))
 
 ---
 

@@ -1,8 +1,8 @@
-# 🧠 Multi-Modal Deep Learning Framework For Brain Tumor Detection And 3D Volumetric Segmentation Using Optimized UNet Architectures 
+# 🧠 Multi-Modal Deep Learning Framework for Brain Tumor Detection and 3D Volumetric Segmentation
 
 <div align="center">
 
-![Brain Tumor Segmentation]([https://img.shields.io/badge/Task-Medical%20Image%20Segmentation-blue?style=for-the-badge](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/main/pipeline.jpeg))
+![Brain Tumor Segmentation](https://img.shields.io/badge/Task-Medical%20Image%20Segmentation-blue?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 ![BraTS2020](https://img.shields.io/badge/Dataset-BraTS2020-green?style=for-the-badge)
@@ -104,7 +104,7 @@ Stage 6: Interpretability & Visualization
 
 > 📷 **Figure:** Six-stage pipeline diagram (see `images/pipeline.png`)
 
-![Pipeline Diagram]([images/pipeline.png](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/a1e8b3b946a4dc8e82a40d41fbe9a9ff5ddb46b6/pipeline.jpeg))
+![Pipeline Diagram](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/2ebff00cf7be37792b93d0d9151880933d5cbb70/pipeline.jpeg)
 
 ---
 

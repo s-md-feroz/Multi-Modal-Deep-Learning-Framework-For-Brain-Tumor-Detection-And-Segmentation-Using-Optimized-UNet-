@@ -6,13 +6,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 ![BraTS2020](https://img.shields.io/badge/Dataset-BraTS2020-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **Published in:** *Journal of Electronics and Information Technology (JEIT), Volume 26, Issue 4, 2026 — Scopus/Elsevier*
 
 **Author:** Shaik Mohammed Feroz · M.Tech in Artificial Intelligence · JAIN (Deemed-to-be University)
-
-**Guide:** Dr. Guruvammal S · Assistant Professor, Dept. of CSE · JAIN (Deemed-to-be University)
 
 </div>
 

@@ -141,7 +141,7 @@ Each **DoubleConv block**: `Conv3×3 → BatchNorm2d → ReLU → Conv3×3 → B
 
 > 📷 **Figure:** UNet encoder-decoder diagram (see `images/unet_architecture.png`)
 
-![UNet Architecture]([https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/e89d32f77dcd7f00409cb12c80319a37058c5307/grad%20cam.png](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/0614b668cfef3e044c0da31853b162b8ba7bc190/Unet%20arch.jpg))
+![UNet Architecture](https://github.com/s-md-feroz/Multi-Modal-Deep-Learning-Framework-For-Brain-Tumor-Detection-And-Segmentation-Using-Optimized-UNet-/blob/0614b668cfef3e044c0da31853b162b8ba7bc190/Unet%20arch.jpg)
 
 ---
 
